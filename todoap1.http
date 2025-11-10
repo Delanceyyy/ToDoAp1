@@ -1,0 +1,6 @@
+@todoap1_HostAddress = http://localhost:5196
+
+GET {{todoap1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
